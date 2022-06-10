@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @faria2918
 - 👀 I’m interested in Learing new things
-- 🌱 I’m currently learning web-development
+- 🌱 I’m currently learning SQA
+- 
 -
 
 <!---
